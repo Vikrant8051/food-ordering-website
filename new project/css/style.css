@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* css variable */
+:root{
+    --navbar-height: 59px;
+}
+/* naavigation bar */
+#navbar{
+    display: flex;
+    align-items: center;
+}
+#logo img{
+    height: 59px;
+    margin: 3px 6px;
+}
